@@ -58,7 +58,7 @@ Siga os passos abaixo para configurar e executar o projeto:
 ## Imagens
 4. Fotos do Trabalho:
     - As fotos do trabalho se encontram na pasta `Fotos`
-tag <img1>
+tag <img1><img height="20" alt="GIF" src="https://github.com/viniciusalexandre2/viniciusalexandre2/blob/main/img1/soulgem.gif?raw=true"/>Meus interesses pessoais:
 ## Desenvolvedores
 5. Desenvolvedores:
 

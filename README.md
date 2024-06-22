@@ -58,7 +58,8 @@ Siga os passos abaixo para configurar e executar o projeto:
 ## Imagens
 4. Fotos do Trabalho:
     - As fotos do trabalho se encontram na pasta `Fotos`
-tag <img1><img height="20" alt="GIF" src="https://github.com/viniciusalexandre2/viniciusalexandre2/blob/main/img1/soulgem.gif?raw=true"/>Meus interesses pessoais:
+
+<img align="right" alt="img1" src="https://github.com/viniciusalexandre2/Trabalho-final-de-LP-POO./edit/main/README.mdblob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
 ## Desenvolvedores
 5. Desenvolvedores:
 

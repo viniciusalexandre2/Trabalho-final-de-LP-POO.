@@ -58,6 +58,7 @@ Siga os passos abaixo para configurar e executar o projeto:
 ## Imagens
 4. Fotos do Trabalho:
     - As fotos do trabalho se encontram na pasta `Fotos`
+tag <img1>
 ## Desenvolvedores
 5. Desenvolvedores:
 
